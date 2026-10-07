@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-compliance",
+  "version": "0.5.0",
+  "description": "Review and record evidence against accepted policy without inventing applicability or professional authority",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-compliance-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-compliance-agent-plugin",
+  "license": "MIT",
+  "keywords": ["agent-plugin", "woia-compliance"]
+}

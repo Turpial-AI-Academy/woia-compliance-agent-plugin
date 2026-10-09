@@ -1,6 +1,5 @@
 # Compliance contract
 
-Source: WOIA Real Estate eb0a7278188b2f9968e21ed4299f08184d864cac; ADR-0026/0027/0029/0030 and docs/21,22,24,25.
 
 Legal/Compliance owns this capability; another department requests a distinct competent contribution. The plugin does not invent legislation, applicability, professional opinion, policy values or authority. A host supplies accepted applicable versioned policy, exact current scope and attributable evidence.
 
